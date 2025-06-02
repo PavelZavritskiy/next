@@ -1,1 +1,14 @@
-{}
+{
+  "node_modules\\.pnpm\\next@15.4.0-canary.23_react_2961b682984212f521c4cc93c3dc7c92\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 5088,
+    "files": [
+      "static/chunks/88.8c0fc1044a2c1a78.js"
+    ]
+  },
+  "node_modules\\.pnpm\\next@15.4.0-canary.23_react_2961b682984212f521c4cc93c3dc7c92\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 2485,
+    "files": [
+      "static/chunks/485.0f1e5e16a628f894.js"
+    ]
+  }
+}
